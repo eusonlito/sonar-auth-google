@@ -9,8 +9,8 @@
   <description>Google Authentication for SonarQube</description>
   <inceptionYear>2016</inceptionYear>
   <organization>
-    <name>SonarSource</name>
-    <url>http://www.sonarsource.com</url>
+    <name>SonarSource and Deven Phillips</name>
+    <url>https://github.com/InfoSec812/sonar-auth-google</url>
   </organization>
   <licenses>
     <license>
